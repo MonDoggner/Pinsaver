@@ -8,7 +8,13 @@
 ### Сходил? Отлично, теперь копируй репозиторий к себе 
 
 ```
-$ git clone 
+$ git clone https://github.com/MonDoggner/Pinsaver.git
+```
+
+### Скачивай зависимости
+
+```
+pip install -r requirements.txt
 ```
 
 ### Вставляй токен вот сюда:
